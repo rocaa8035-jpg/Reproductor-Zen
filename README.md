@@ -1,6 +1,6 @@
 # 🎵 Reproductor de Audio Minimalista - Angular Zen
 
-Un reproductor de audio y podcasts web moderno, minimalista y responsivo construido desde cero con **Angular**. El proyecto destaca por implementar las últimas características del framework (componentes standalone, control flow y Signals) combinadas con una experiencia de usuario premium enfocada en la persistencia de datos.
+Un reproductor de audio y podcasts web moderno, minimalista y responsivo construido desde cero con **Angular**. El proyecto destaca por implementar las últimas características del framework (componentes standalone, control flow y Signals) combinadas con una experiencia de usuario premium enfocada en la persistencia de datos. [Probar App](https://reproductor-zen.vercel.app/)
 
 <img width="314" height="581" alt="Captura de pantalla 2026-05-24 103305" src="https://github.com/user-attachments/assets/8d04915d-a281-4326-9faa-f2c6131646de" />
 <img width="314" height="577" alt="Captura de pantalla 2026-05-24 103358" src="https://github.com/user-attachments/assets/0c5282ca-ff58-4f90-bb97-2ddb7e21b36c" />
